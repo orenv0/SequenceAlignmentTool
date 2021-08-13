@@ -1,0 +1,4 @@
+Process: 1, Best Mutant: 85, Best Offset: 363, Best Score: 119.3
+Process: 2, Best Mutant: 41, Best Offset: 126, Best Score: 1874.7
+Process: 3, Best Mutant: 51, Best Offset: 855, Best Score: 272.9
+Process: 4, Best Mutant: 245, Best Offset: 975, Best Score: 237.4
